@@ -11,6 +11,14 @@ urls = dict (
             "login": "/login",
             "register": "/register"
         }
+    },
+    table_reservation = {
+        "port": "8000",
+        "route_path": "",
+        "endpoints": {
+            "reserve": "/",
+            "test": "/test"
+        }
     }
     
 )
