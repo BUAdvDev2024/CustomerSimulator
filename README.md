@@ -56,6 +56,8 @@ A python script to simulate customer actions
 - Leaving feedback
 - Etc
 
+If you there's a feature you think is missing, please raise an issue or make your changes and make a pull request :)
+
 <p align="right"><a href="#readme-top">back to top</a></p>
 
 
