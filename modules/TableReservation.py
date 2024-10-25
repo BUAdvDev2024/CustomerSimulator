@@ -13,4 +13,5 @@ def createTableReservation(data):
     print(f"url: {url}")
 
     response = requests.post(url, json=data)
-    print(f"Response from server: status code: {response.status_code}, message: {response.content}")
+    print(f"Response from server: status code: {response.status_code}")
+
